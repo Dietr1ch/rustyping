@@ -1,0 +1,10 @@
+(
+ (nil
+  (lsp-file-watch-ignored-directories
+   "/\\.git$"
+   "/\\.devenv$"
+   "/\\.direnv$"
+   "/target$"
+   )
+  )
+ )

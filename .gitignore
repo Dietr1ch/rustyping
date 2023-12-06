@@ -1,3 +1,10 @@
+# devenv
+.direnv/
+.devenv/
+
+# Pre-commit links
+.pre-commit-config.yaml
+
 # nvim/vim session file
 Session.vim
 
